@@ -313,3 +313,13 @@ body {
     font-size: 40px;
     margin-block-end: 10px;
 }
+
+/* Solutions */
+#takeaways {
+    color: white;
+}
+
+#takeaways h2 {
+    font-size: 40px;
+    margin-block-end: 10px;
+}
