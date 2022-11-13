@@ -303,3 +303,13 @@ body {
     line-height: 156.02%;
     font-size: 18px;
 }
+
+/* Privacy Page */
+#engagement {
+    color: white;
+}
+
+#engagement h2 {
+    font-size: 40px;
+    margin-block-end: 10px;
+}
